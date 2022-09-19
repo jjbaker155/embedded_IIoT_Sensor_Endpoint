@@ -9,4 +9,3 @@ In order to test this code without an ATmega328/P, the simulavr plugin for Code:
 ####Please note that some features will not work without an actual ATmega328/P microcontroller
 ####All tests passed when using a physical ATmega328/P microcontroller see: 
 - jjbaker4_SER486_lab_trial results.pdf
-- https://youtu.be/ha5iwLxbkxg
